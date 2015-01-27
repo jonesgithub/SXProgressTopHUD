@@ -35,5 +35,5 @@
 
 甩出一个信息，传入图片，里面可以填充自定义消息和自定义图片
 ````objc
-[SXProgressTopHUD throwMessage:@"请勿重复点击" withImage:@"no.png"];
+[SXProgressTopHUD throwMessage:@"请勿重复点击" withImage:imgNo];
 ````
