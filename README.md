@@ -37,3 +37,6 @@
 ````objc
 [SXProgressTopHUD throwMessage:@"请勿重复点击" withImage:imgNo];
 ````
+效果展示
+
+![image](https://github.com/dsxNiubility/SXProgressTopHUD/raw/master/screenshots/HUD.gif)
